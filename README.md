@@ -28,3 +28,13 @@ Scikit-learn (Random Forest Classifier, metrics)
 Pandas, NumPy for data handling
 
 Matplotlib, Seaborn for visualization
+
+# 🔮 Future Improvements
+
+Hyperparameter tuning (GridSearchCV, RandomizedSearchCV) to boost accuracy.
+
+Feature engineering for better predictive performance.
+
+Experiment with other models (Logistic Regression, XGBoost).
+
+Add cross-validation for more robust evaluation
