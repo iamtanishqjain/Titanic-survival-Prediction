@@ -18,6 +18,7 @@ Easily extendable to other datasets or survival prediction tasks.
 
 # 📈 Model Performance
 Algorithm Used: Random Forest Classifier
+
 Accuracy: ~80%
 
 # 🛠️ Technologies Used
